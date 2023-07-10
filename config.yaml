@@ -1,0 +1,12 @@
+settings:
+  translate_lang: 'ru'
+  xls_file: 'src_file.xlsx'
+  sheet_name: 'Sheet2'
+  source_column_A: 'A'
+  source_column_B: 'C'
+  save_column_A: 'B'
+  save_column_B: 'D'
+  new_file_name: 'translated_file.xlsx'
+  batch_size: 20
+  rows_per_batch: 20
+  batch_interval: 2
